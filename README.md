@@ -15,4 +15,4 @@ This project was created and deployed using Jupyter notebook. To run the program
 
 ## Contributing
 
-Contributions are welcome! If you have an idea how to make the program more efficient or robust, please message me first before submitting a pull request. Thank you!
+Contributions are welcome! If you have an idea how to make the program more efficient, please message me first before submitting a pull request. Thank you!
