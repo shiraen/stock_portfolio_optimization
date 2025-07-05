@@ -1,4 +1,4 @@
-# Stock Portfolio Optimization
+# Stock Recommendation Using the Modern Portfolio Theory
 
 This project is a Python implementation of mean-variance stock optimization. It uses historical stock prices to optimize a portfolio of stocks based on the user's preferences.
 
@@ -8,7 +8,7 @@ This project was created and deployed using Jupyter notebook. To run the program
 
 ## Usage
 
-1. Enter the name of your file that contains the monthly stock prices of you chosen companies in the "Stock Portfolio Optimization.ipynb" file.
+1. Enter the name of your file that contains the monthly stock prices of you chosen companies in the "Stock Recommendation Using the Modern Portfolio Theory.ipynb" file.
 2. Run the code in your jupyter notebook.
 3. An interactive plot of the stocks on the efficient frontier will then be displayed. Hover on the points to see the expected return, volatility, and weights of each optimized stock portfolios.
 
